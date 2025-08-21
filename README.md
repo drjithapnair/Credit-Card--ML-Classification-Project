@@ -93,5 +93,4 @@ It can be scaled for **banking systems**, **risk dashboards**, and **credit scor
 ---
 
 ## 📬 Contact  
-📧 **Email:** your-email@example.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/drjithapnair/in)  
+🔗 **LinkedIn:**(https://www.linkedin.com/in/drjithapnair/)  
